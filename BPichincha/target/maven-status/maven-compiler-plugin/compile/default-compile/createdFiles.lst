@@ -1,0 +1,14 @@
+com\practicaswrest\entity\Cuentas.class
+com\practicaswrest\entity\Transacciones.class
+com\practicaswrest\repo\Clientes.class
+com\practicaswrest\repo\Cuentas.class
+com\practicaswrest\PracticaswrestApplication.class
+com\practicaswrest\service\CuentasService.class
+com\practicaswrest\repo\TransaccionesRepo.class
+com\practicaswrest\entity\Clientes.class
+com\practicaswrest\controller\CuentasController.class
+com\practicaswrest\controller\TransaccionesController.class
+com\practicaswrest\controller\ClientesController.class
+com\practicaswrest\controller\NasaSWController.class
+com\practicaswrest\service\ClientesService.class
+com\practicaswrest\service\TransaccionesService.class
